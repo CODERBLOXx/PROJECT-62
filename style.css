@@ -1,0 +1,25 @@
+#imageheader {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+#grid {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 100px;
+    color: dodgerblue;
+    font-family: 'Dancing Script', cursive;
+}
+
+#SliderGallery {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 100px;
+    color: dodgerblue;
+    font-family: 'Dancing Script',cursive;
+}
+
+body {
+    background: linear-gradient(green 0%,blue 100%);
+}
